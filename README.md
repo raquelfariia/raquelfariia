@@ -1,10 +1,10 @@
-## Hi there 👋
+## Olá! 👋
 
 Bem vindo a meu perfil
 Sou a Raquel!
 
 🚀 Sobre mim
-Eu sou uma pessoa desenvolvedora full-stack...
+Eu sou uma pessoa comunicativa e que adora criar e desenvolver front-end.
 
 🛠 Habilidades
-Javascript, HTML, CSS...
+HTML, CSS, PHP, BD.
