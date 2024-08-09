@@ -1,10 +1,12 @@
-👱🏻‍♀️ Sobre mim
+# Olá, eu sou a Raquel! ✨
+
+## 👱🏻‍♀️ Sobre mim
 Eu sou uma pessoa comunicativa, criativa e que gosta de trabalhar com front-end
 
-🛠 Habilidades
+## 🛠 Habilidades
 HTML, CSS, PHP, Desenvolvimento Mobile, BD
 
-Outras seções comuns em perfis do GitHub
+## Outras seções comuns em perfis do GitHub
 👩‍💻 Estudo atualmente no SESI/SENAI
 
 🧠 Estou fazendo desenvolvimento de sistemas
